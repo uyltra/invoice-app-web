@@ -44,7 +44,7 @@ module.exports = {
     'react/jsx-equals-spacing': 'error',
     'react/jsx-indent-props': ['error', 2],
     'react/jsx-indent': ['error', 2],
-    'react/jsx-max-props-per-line': ['error', { maximum: 4 }],
+    'react/jsx-max-props-per-line': ['error', { maximum: 3 }],
     'react/jsx-no-bind': 'error',
     'react/jsx-no-literals': 'off',
     'react/prop-types': 'off',
