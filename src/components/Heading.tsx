@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const H1 = styled.h1`
   font-size: 60px;
-  color: deeppink;
+  color: #ff1447;
   text-transform: uppercase;
   font-weight: 300;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
