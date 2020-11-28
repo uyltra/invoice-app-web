@@ -24,7 +24,9 @@
       "module-resolver",
       {
         "alias": {
-          "@components": "./src/components"
+          "@components": "./src/components",
+          "@lib": "./src/lib",
+          "@config": "./src/config"
           // "@ui": "./src/components/ui"
         }
       }

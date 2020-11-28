@@ -1,0 +1,8 @@
+overwrite: true
+schema: <PATH TO YOUR GRAPHQL ENDPOINT>
+generates:
+  src/graphql/generated/graphql.tsx:
+    plugins:
+      - 'typescript'
+      - 'typescript-operations'
+      - 'typescript-react-apollo'

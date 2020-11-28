@@ -61,6 +61,8 @@ module.exports = {
       alias: {
         map: [
           ['@components', './src/components'],
+          ['@lib', './src/lib'],
+          ['@config', './src/config'],
           // ['@ui', './src/components/ui']
         ],
         extensions: ['.ts', '.tsx'],
